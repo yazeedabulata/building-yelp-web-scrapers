@@ -2,7 +2,7 @@
 """
 Created on Sun May 22 17:15:05 2022
 
-@author: rasch
+@author: yaz
 """
 
 # Importing needed packages
